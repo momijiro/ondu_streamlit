@@ -1,4 +1,4 @@
-# ondu_streamlit(2022/11/12 作成中)
+# ondu_streamlit(　最終更新:2022/11/12)
 Panasonic社製アプリ「OND'U(おんどゆー)」の出力を自動整形するプログラムを、Streamlitで実装したものです。 
 
 ## バージョンについて
